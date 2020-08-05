@@ -13,5 +13,9 @@
     ]
   },
   "author": "Deivid Veloso <veloso.deivid@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.9.7",
+    "@monorepo/eslint-config": "*"
+  }
 }
