@@ -1,5 +1,5 @@
-describe("test server", () => {
-  it("should do something", () => {
-    expect(1 + 4).toEqual(5);
-  });
-});
+describe('test server', () => {
+  it('should do something', () => {
+    expect(1 + 4).toEqual(5)
+  })
+})
